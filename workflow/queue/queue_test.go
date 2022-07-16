@@ -4,8 +4,8 @@ import (
 	"sync/atomic"
 	"testing"
 
+	"github.com/js361014/roadrunner-temporal/internal"
 	"github.com/stretchr/testify/assert"
-	"github.com/temporalio/roadrunner-temporal/internal"
 	"go.temporal.io/api/common/v1"
 	"go.temporal.io/api/failure/v1"
 )

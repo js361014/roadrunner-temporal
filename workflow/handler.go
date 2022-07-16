@@ -5,10 +5,10 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/js361014/roadrunner-temporal/internal"
 	"github.com/spiral/errors"
 	bindings "github.com/spiral/sdk-go/internalbindings"
 	"github.com/spiral/sdk-go/workflow"
-	"github.com/temporalio/roadrunner-temporal/internal"
 	commonpb "go.temporal.io/api/common/v1"
 )
 

@@ -1,4 +1,4 @@
-module github.com/temporalio/roadrunner-temporal
+module github.com/js361014/roadrunner-temporal
 
 go 1.17
 

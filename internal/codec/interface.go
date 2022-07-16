@@ -1,7 +1,7 @@
 package codec
 
 import (
-	"github.com/temporalio/roadrunner-temporal/internal"
+	"github.com/js361014/roadrunner-temporal/internal"
 )
 
 // Codec manages payload encoding and decoding while communication with underlying worker.

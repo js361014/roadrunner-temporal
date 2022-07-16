@@ -8,6 +8,8 @@ import (
 	"time"
 
 	"github.com/google/uuid"
+	"github.com/js361014/roadrunner-temporal/internal"
+	"github.com/js361014/roadrunner-temporal/internal/codec"
 	"github.com/js361014/roadrunner/v2/utils"
 	"github.com/spiral/errors"
 	tActivity "github.com/spiral/sdk-go/activity"
@@ -15,8 +17,6 @@ import (
 	"github.com/spiral/sdk-go/converter"
 	"github.com/spiral/sdk-go/internalbindings"
 	"github.com/spiral/sdk-go/worker"
-	"github.com/temporalio/roadrunner-temporal/internal"
-	"github.com/temporalio/roadrunner-temporal/internal/codec"
 	commonpb "go.temporal.io/api/common/v1"
 	"go.uber.org/zap"
 )
