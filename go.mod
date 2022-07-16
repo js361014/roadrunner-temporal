@@ -7,15 +7,15 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.3.0
+	github.com/js361014/api/v2 v2.0.0-rc.1.2
+	github.com/js361014/roadrunner-plugins/v2 v2.7.2-0.20220716000013-8e6eb30750b3
+	github.com/js361014/roadrunner/v2 v2.7.2-0.20220715153807-f9b8f7350769
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/pborman/uuid v1.2.1
-	github.com/roadrunner-server/api/v2 v2.0.0-rc.1
 	// SPIRAL ========
 	github.com/spiral/endure v1.1.0
 	github.com/spiral/errors v1.0.12
 	github.com/spiral/goridge/v3 v3.2.7
-	github.com/spiral/roadrunner-plugins/v2 v2.7.1
-	github.com/spiral/roadrunner/v2 v2.7.1
 	github.com/spiral/sdk-go v1.12.0
 	github.com/spiral/sdk-go/contrib/tally v0.0.0-20211210212330-614642034d01
 	// ===========

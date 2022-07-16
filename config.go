@@ -1,6 +1,6 @@
 package roadrunner_temporal //nolint:revive,stylecheck
 
-import "github.com/spiral/roadrunner/v2/pool"
+import "github.com/js361014/roadrunner/v2/pool"
 
 const (
 	MetricsTypeSummary string = "summary"
